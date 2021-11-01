@@ -1,2 +1,2 @@
-My first odin project.
+First Odin project.
 
