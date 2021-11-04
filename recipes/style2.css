@@ -4,19 +4,25 @@ h2,
 {
     text-align: center;
 }
+
+.tips {
+    list-style: none
+}
  
 
 
 .title {
-    font-size: 80px;
-    background-color: peachpuff;
-    color: white;
+  font-size: 100px;
+  margin: 30px;
+  color: burlywood;
+  padding-top: 30px;
 }
 
 #button
 {
     text-align: center;
     font-weight: bold;
+    
     
     
 }
@@ -28,9 +34,16 @@ footer {
 }
 
 img {
+    height: 300px;
+    width: 500px ;
     padding: 20px;
     border: 20px solid peachpuff;
-    margin: 10px;
-    
+    margin: 40px;
+}
 
+#adobo {
+    background-image: url(images/adobo.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    
 }

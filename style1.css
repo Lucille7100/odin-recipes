@@ -5,18 +5,27 @@ a {
     font-weight: bold;
     font-style: italic;
     text-align: center;
+    list-style: none;
+   
 }
 
 .home-title {
-    font-size: 90px;
-    padding: 70px;
-    background-color: peachpuff; 
+    font-size: 100px;
+    padding: 30px;
     color: whitesmoke;
     text-align: center;
+    margin: 5px;
+    box-sizing: border-box;
 }
 
 ul {
     font-size: 40px;
-    padding: 20px;
-    
+    box-sizing: border-box;
+   
+}
+
+body {
+    background-image: url(index.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
