@@ -1,11 +1,36 @@
 h1,
-h2
+h2,
+.tips
 {
     text-align: center;
 }
+ 
 
-#button {
+
+.title {
+    font-size: 80px;
+    background-color: peachpuff;
+    color: white;
+}
+
+#button
+{
     text-align: center;
     font-weight: bold;
     
+    
+}
+
+footer {
+    background-color: peachpuff;
+    color: black;
+    
+}
+
+img {
+    padding: 20px;
+    border: 20px solid peachpuff;
+    margin: 10px;
+    
+
 }
