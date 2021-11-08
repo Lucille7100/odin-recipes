@@ -9,13 +9,11 @@ h2,
     list-style: none
 }
  
-
-
 .title {
   font-size: 100px;
   margin: 30px;
-  color: burlywood;
-  padding-top: 30px;
+  color:white;
+  margin-top: 50px
 }
 
 #button
@@ -23,27 +21,22 @@ h2,
     text-align: center;
     font-weight: bold;
     
-    
+}
+
+#adobo,
+#sinigang{
+   background-color:black
     
 }
 
-footer {
-    background-color: peachpuff;
-    color: black;
-    
+.img-adobo{
+    box-sizing: border-box;
+    margin-left: 70px;
+    background-color: black
 }
 
-img {
-    height: 300px;
-    width: 500px ;
-    padding: 20px;
-    border: 20px solid peachpuff;
-    margin: 40px;
-}
+.info{
+    background-color: white;
+    padding: 3px
 
-#adobo {
-    background-image: url(images/adobo.jpg);
-    background-size:cover;
-    background-attachment: fixed;
-    
 }
