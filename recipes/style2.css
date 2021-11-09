@@ -29,10 +29,14 @@ h2,
     
 }
 
-.img-adobo{
-    box-sizing: border-box;
-    margin-left: 70px;
-    background-color: black
+.img-adobo,
+.img-sinigang
+{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+    
 }
 
 .info{

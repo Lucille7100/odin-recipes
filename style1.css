@@ -9,10 +9,21 @@ a{
     list-style:none;
     text-align: center;
     display: inline-block;
-    padding:5px;
-    margin-left:30px;
+    margin-left: 20px;
+    
+
+    
+    
 }
 
+.container {
+
+    display:flex;
+    justify-content: center;
+  
+    
+
+}
 .home-title {
     font-size: 100px;
     color: whitesmoke;
