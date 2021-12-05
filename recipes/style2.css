@@ -12,8 +12,8 @@ h2,
 .title {
   font-size: 100px;
   margin: 30px;
-  color:white;
-  margin-top: 50px
+  margin-top: 50px;
+  font-size: 20px
 }
 
 #button
@@ -25,15 +25,14 @@ h2,
 
 #adobo,
 #sinigang{
-   background-color:black;
    font-size: 20px;
-    
 }
 
 .img-adobo,
-.img-sinigang
+.img-sinigang,
+.img-bukopandan
 {
-    background-color: black;
+    
     display: flex;
     justify-content: center;
     gap: 5px;
@@ -42,7 +41,10 @@ h2,
 }
 
 .info{
-    background-color: white;
-    padding: 3px
+   
 
+}
+
+.info-description {
+   
 }
